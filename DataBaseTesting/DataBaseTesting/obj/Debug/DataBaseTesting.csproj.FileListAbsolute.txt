@@ -1,0 +1,17 @@
+c:\users\greg\source\repos\DataBaseTesting\DataBaseTesting\bin\Debug\DataBaseTesting.exe.config
+c:\users\greg\source\repos\DataBaseTesting\DataBaseTesting\bin\Debug\DataBaseTesting.exe
+c:\users\greg\source\repos\DataBaseTesting\DataBaseTesting\bin\Debug\DataBaseTesting.pdb
+c:\users\greg\source\repos\DataBaseTesting\DataBaseTesting\bin\Debug\Google.Protobuf.dll
+c:\users\greg\source\repos\DataBaseTesting\DataBaseTesting\bin\Debug\MySql.Data.dll
+c:\users\greg\source\repos\DataBaseTesting\DataBaseTesting\bin\Debug\Google.Protobuf.xml
+c:\users\greg\source\repos\DataBaseTesting\DataBaseTesting\bin\Debug\MySql.Data.xml
+c:\users\greg\source\repos\DataBaseTesting\DataBaseTesting\obj\Debug\DataBaseTesting.csprojResolveAssemblyReference.cache
+c:\users\greg\source\repos\DataBaseTesting\DataBaseTesting\obj\Debug\DataBaseTesting.csproj.CoreCompileInputs.cache
+c:\users\greg\source\repos\DataBaseTesting\DataBaseTesting\obj\Debug\DataBaseTesting.exe
+c:\users\greg\source\repos\DataBaseTesting\DataBaseTesting\obj\Debug\DataBaseTesting.pdb
+C:\Users\Greg\Documents\GitHub\DatabaseHW\DataBaseTesting\DataBaseTesting\obj\Debug\DataBaseTesting.csprojResolveAssemblyReference.cache
+C:\Users\Greg\Documents\GitHub\DatabaseHW\DataBaseTesting\DataBaseTesting\obj\Debug\DataBaseTesting.Form1.resources
+C:\Users\Greg\Documents\GitHub\DatabaseHW\DataBaseTesting\DataBaseTesting\obj\Debug\DataBaseTesting.csproj.GenerateResource.Cache
+C:\Users\Greg\Documents\GitHub\DatabaseHW\DataBaseTesting\DataBaseTesting\obj\Debug\DataBaseTesting.csproj.CoreCompileInputs.cache
+C:\Users\Greg\Documents\GitHub\DatabaseHW\DataBaseTesting\DataBaseTesting\obj\Debug\DataBaseTesting.exe
+C:\Users\Greg\Documents\GitHub\DatabaseHW\DataBaseTesting\DataBaseTesting\obj\Debug\DataBaseTesting.pdb
